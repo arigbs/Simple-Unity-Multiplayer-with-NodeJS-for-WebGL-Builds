@@ -4,7 +4,7 @@ A basic project for implementing multiplayer in Unity using SocketIO, that is co
 **Requires a paid asset from the Unity Asset Store.**
 
 Amended scripts for the client and server from the video tutorial series for unity multiplayer networking with socket io.
-Originally by Adam Carnagey
+Originally by **Adam Carnagey**
 link to video tutorial series: *https://www.youtube.com/watch?v=tn3cWcSYmHE&list=PLH83kaN0EWK5wkiNhGlhfSI_nGDcR1DX8&index=1*
 link to original github repo: *https://github.com/acarnagey/Unity-Multiplayer-Networking-NodeJS*
 
@@ -20,4 +20,4 @@ you can also play from the unity scene. Entering a player name and pressing the 
 
 For reference, in case something gets screwed, all gameobjects in the scene have been made into prefabs at the location: Assets > Scenes > ScenePrefabs
 
-This sample project is hosted here by Ayodele Arigbabu under an ISC License (*https://en.wikipedia.org/wiki/ISC_license*)
+This sample project is hosted here by **Ayodele Arigbabu** under an ISC License (*https://en.wikipedia.org/wiki/ISC_license*)
