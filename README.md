@@ -21,3 +21,5 @@ you can also play from the unity scene. Entering a player name and pressing the 
 For reference, in case something gets screwed, all gameobjects in the scene have been made into prefabs at the location: Assets > Scenes > ScenePrefabs
 
 This sample project is hosted here by **Ayodele Arigbabu** under an ISC License (*https://en.wikipedia.org/wiki/ISC_license*)
+
+Thanks to **Peter Braith** for his assistance in getting this to work with his UnitySocketIO asset and to **Adam Carnagey** for the original client and server side code.
