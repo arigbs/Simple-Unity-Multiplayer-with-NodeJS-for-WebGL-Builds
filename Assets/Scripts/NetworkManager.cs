@@ -1,7 +1,7 @@
 ﻿// Client side script adapted from the video tutorial series for unity multiplayer networking with socket io riginally by Adam Carnagey
 // Link to original video tutorial series: https://www.youtube.com/watch?v=tn3cWcSYmHE&list=PLH83kaN0EWK5wkiNhGlhfSI_nGDcR1DX8&index=1
 // Link to original github repo: https://github.com/acarnagey/Unity-Multiplayer-Networking-NodeJS
-// Link to this adaptation: 
+// Link to this adaptation: https://github.com/arigbs/Simple-Unity-Multiplayer-with-NodeJS-for-WebGL-Builds.git
 
 // Adapted by Ayodele Arigbabu in January 2019 and provided under an ISC license (https://en.wikipedia.org/wiki/ISC_license), 
 // to work with the asset 'SocketIO for Native and Webgl builds' by Daspete
